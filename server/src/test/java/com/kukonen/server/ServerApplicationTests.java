@@ -1,10 +1,10 @@
-package com.kukonen.gapi;
+package com.kukonen.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GapiApplicationTests {
+class ServerApplicationTests {
 
     @Test
     void contextLoads() {
